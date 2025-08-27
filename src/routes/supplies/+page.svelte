@@ -6,12 +6,6 @@
     import compressor from '$lib/assets/compressor01.png';
 </script>
 <div class="container mx-auto">
-    <!-- <div 
-        class="
-        flex flex-col min-h-screen
-        bg-[url('$lib/assets/supplies-banner.jpg')]
-        bg-cover bg-center"
-    ></div> -->
     <div class="p-4">
         <h1 class="text-4xl font-bold mb-4">Lure Painting Supplies</h1>
         <p class="text-lg">
