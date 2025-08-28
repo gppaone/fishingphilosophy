@@ -37,12 +37,12 @@
         <hr class="h-px my-4 bg-gray-200 border-0 dark:bg-gray-700">
         <div class="flex pt-4">
             <div class="pr-4">
-                <a href="https://amzn.to/4fX1Q0j" target="_blank" alt="Harder & Steenbeck Ultra 2024"><img src="https://m.media-amazon.com/images/I/51diiqJ-PaL._AC_SL1500_.jpg" alt="Harder & Steenbeck Airbrush – Infinity 2024" class="w-48 max-w-none" /></a>
+                <a href="https://amzn.to/41VtyEM" target="_blank" alt="Sparmax SP35 Airbrush"><img src="https://m.media-amazon.com/images/I/614WpHvK8hL._AC_SL1500_.jpg" alt="Sparmax SP35 Airbrush" class="w-48 max-w-none" /></a>
             </div>
             <div>
-                <h2 class="text-xl font-bold">Harder & Steenbeck Airbrush – Infinity 2024</h2>
-                <p>Same stellar trigger performance as the Evolution but lighter and built with premium materials—geared towards professionals who appreciate aesthetics and feel.</p>
-                <p class="pt-2">Amazon: <a href="https://amzn.to/4fX1Q0j" target="_blank" class="text-blue-700 underline">Harder & Steenbeck Airbrush – Infinity 2024</a></p>
+                <h2 class="text-xl font-bold">Sparmax SP35 Airbrush</h2>
+                <p>The Sparmax SP-35 is a lightweight, well-balanced dual-action gravity-feed airbrush with a 0.35 mm nozzle and 2 cc color cup—perfect for fine-detail work in hobbies, nail art, cake decorating, and more. Its standout feature is a cut-out barrel design that gives easy access to the needle retention nut, simplifying cleaning and enabling spatter techniques—plus it includes a handy converter to switch to single-action operation.</p>
+                <p class="pt-2">Amazon: <a href="https://amzn.to/41VtyEM" target="_blank" class="text-blue-700 underline">Sparmax SP35 Airbrush</a></p>
             </div>
         </div>
         <hr class="h-px my-4 bg-gray-200 border-0 dark:bg-gray-700">

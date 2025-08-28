@@ -2,7 +2,7 @@
     <div class="p-4">
         <h1 class="text-4xl font-bold mb-4">Top 5 Air Compressors (in my opinion)</h1>
         <p>Here are my top 5 compressors for airbrushing (including a pancake option).  (See great <a href="#budget" class="text-blue-700 underline">Budget Kit</a> options below.)</p>
-        <p class="mt-4 py-8 px-4 rounded bg-amber-100">Be aware that with some of these higher-volume compressors, you’ll need attachments to connect your airbrush hose to the quick-connect fitting. Most airbrush hoses use a 1/8" connection, while larger compressors typically use 1/4". One of the best solutions I’ve found is the <a href="https://amzn.to/45WrRYQ" class="text-blue-700 underline">Master Airbrush Air Hose with 1/8"</a> ends and a 1/4" adaptor, which makes the setup simple and reliable.</p>
+        <p class="mt-4 py-8 px-4 rounded bg-amber-100">Be aware that with some of these higher-volume compressors, you’ll need attachments to connect your airbrush hose to the quick-connect fitting. Most airbrush hoses use a 1/8" connection, while larger compressors typically use 1/4". One of the best solutions I’ve found is the <a href="https://amzn.to/45WrRYQ" class="text-blue-700 underline">Master Airbrush Air Hose with 1/8"</a> ends and a 1/4" adaptor, which makes the setup simple and reliable. <br><br>Please see the <a href="/supplies/accessories" class="text-blue-700 underline">Accessories</a> page for additional necessary items.</p>
         <div class="flex pt-4">
             <div class="pr-4">
                 <a href="https://amzn.to/3HYe8su" target="_blank" title="California Air Tools CAT-1P1060S"><img src="https://m.media-amazon.com/images/I/71diOTsxWsL._AC_SL1500_.jpg" alt="California Air Tools CAT-1P1060S" class="w-48 max-w-none" /></a>
