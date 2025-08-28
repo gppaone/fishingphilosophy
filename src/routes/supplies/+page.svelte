@@ -4,6 +4,7 @@
     import clearcoat from '$lib/assets/clearcoat01.png';
     import stencil from '$lib/assets/stencil01.png';
     import compressor from '$lib/assets/compressor01.png';
+    import blank from '$lib/assets/blank01.png';
 </script>
 <div class="container mx-auto">
     <div class="p-4">
@@ -19,6 +20,17 @@
                 <h1 class="text-2xl">Airbrushes</h1>
                 <p>When it comes to painting fishing lures, having a good airbrush makes all the difference. While starting out you can get by with a cheaper airbrush to practice and get the hang of things, sooner or later you’ll notice the limits. A quality airbrush gives you smoother lines, more even paint coverage, and better control, which makes it much easier to bring your ideas to life. It also saves frustration since you won’t be constantly fighting clogs or uneven sprays. In the long run, a reliable airbrush not only helps your lures look more professional, but also makes the whole painting process more enjoyable.</p>
                 <a href="/supplies/airbrushes" class="block text-blue-600 underline pt-3">Airbrush Options</a>
+            </div>
+        </div>
+        <hr class="h-px my-6 bg-gray-200 border-0 dark:bg-gray-700">
+        <div class="pt-4 py-2 flex">
+            <div class="pr-4 pt-2">
+                <img src='{compressor}' alt="Compressors" class="w-32 max-w-none" />
+            </div>
+            <div>
+                <h1 class="text-2xl">Air Compressors</h1>
+                <p>A good air compressor is the backbone of any airbrush setup, and choosing the right one makes painting a lot smoother. Some compressors come in starter kits with an airbrush and hose, which can be a simple way to get going when you’re just starting out. Others use larger construction-style compressors, which have plenty of power but can be louder and bulkier. No matter which type you use, it’s important to have a moisture trap, since moisture in the line can mess up your paint job, and a good hose that gives you enough flexibility to move around while painting. The right compressor setup keeps your airflow steady, which means more control and more consistent results on your lures.</p>
+                <a href="/supplies/aircompressors" class="block text-blue-600 underline pt-3">Compressor Options</a>
             </div>
         </div>
         <hr class="h-px my-6 bg-gray-200 border-0 dark:bg-gray-700">
@@ -46,23 +58,23 @@
         <hr class="h-px my-6 bg-gray-200 border-0 dark:bg-gray-700">
         <div class="pt-4 py-2 flex">
             <div class="pr-4 pt-2">
+                <img src='{blank}' alt="Blanks" class="w-32 max-w-none" />
+            </div>
+            <div>
+                <h1 class="text-2xl">Blanks</h1>
+                <p>Fishing lure blanks are the starting point for custom lure painting, available in hundreds of shapes and styles to match any fishing need. They give you a clean canvas to explore colors, patterns, and finishes while creating lures that both look great and catch fish.</p>
+                <a href="/supplies/blanks" class="block text-blue-600 underline pt-3">Blank Options</a>
+            </div>
+        </div>
+        <hr class="h-px my-6 bg-gray-200 border-0 dark:bg-gray-700">
+        <div class="pt-4 py-2 flex">
+            <div class="pr-4 pt-2">
                 <img src='{stencil}' alt="Stencils" class="w-32 max-w-none" />
             </div>
             <div>
                 <h1 class="text-2xl">Stencils</h1>
                 <p>Stencils are a great tool for taking your lure painting to the next level. They come in all sorts of forms, from 3D-printed scale patterns to simple craft or hobby fabric netting, to hard plastic molded stencils and more. While you can paint freehand, stencils make it much easier to add details like scales, stripes, or other patterns that give your lures a realistic and professional look. They also help you stay consistent if you’re painting multiple lures with the same design. With a little practice, stencils can save you time, reduce mistakes, and really bring your paint jobs to life.</p>
                 <a href="/supplies/stencils" class="block text-blue-600 underline pt-3">Stencil Options</a>
-            </div>
-        </div>
-        <hr class="h-px my-6 bg-gray-200 border-0 dark:bg-gray-700">
-        <div class="pt-4 py-2 flex">
-            <div class="pr-4 pt-2">
-                <img src='{compressor}' alt="Compressors" class="w-32 max-w-none" />
-            </div>
-            <div>
-                <h1 class="text-2xl">Air Compressors</h1>
-                <p>A good air compressor is the backbone of any airbrush setup, and choosing the right one makes painting a lot smoother. Some compressors come in starter kits with an airbrush and hose, which can be a simple way to get going when you’re just starting out. Others use larger construction-style compressors, which have plenty of power but can be louder and bulkier. No matter which type you use, it’s important to have a moisture trap, since moisture in the line can mess up your paint job, and a good hose that gives you enough flexibility to move around while painting. The right compressor setup keeps your airflow steady, which means more control and more consistent results on your lures.</p>
-                <a href="/supplies/aircompressors" class="block text-blue-600 underline pt-3">Compressor Options</a>
             </div>
         </div>
         <hr class="h-px my-6 bg-gray-200 border-0 dark:bg-gray-700">
