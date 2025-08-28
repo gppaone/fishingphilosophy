@@ -1,7 +1,7 @@
 <div class="container mx-auto">
     <div class="p-4">
         <h1 class="text-4xl font-bold mb-4">Paints!</h1>
-        <p>Here are some of the top paints used for painting lures.</p>
+        <p>Here are some of the top paints used for painting lures. (See great <a href="#additional" class="text-blue-700 underline">Additional Paint Sets</a> options below.)</p>
         <p class="mt-4 py-8 px-4 rounded bg-amber-100">There are many paint and ink brands that offer a wide range of colors to choose from. While you could get by with some acrylic hobby paints from your local store, in my experience they’re often too thick and the color intensity can be lacking. Most paints will need to be thinned to work properly with the fine tips of an airbrush.  <br><br>Please see the <a href="/supplies/accessories" class="text-blue-700 underline">Accessories</a> page for additional necessary items.</p>
 
         <div class="flex pt-4">
@@ -49,7 +49,7 @@
         </div>
         <p class="pt-4 font-bold">What do else do you need?  See <a href="/supplies/clearcoats" class="text-blue-600 underline">Clear Coat</a> options</p>
         <hr class="h-px my-4 bg-gray-200 border-0 dark:bg-gray-700">
-        <h1 class="text-4xl font-bold mb-4 pt-4" id="budget">Additional Paint Sets</h1>
+        <h1 class="text-4xl font-bold mb-4 pt-4" id="additional">Additional Paint Sets</h1>
         <p class="mt-4 py-8 px-4 rounded bg-amber-100">These paint sets take your colors to the next level with shimmering, shifting, and pearlescent effects.</p>
         <div class="flex pt-4">
             <div class="pr-4">
