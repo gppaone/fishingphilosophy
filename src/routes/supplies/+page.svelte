@@ -5,6 +5,7 @@
     import stencil from '$lib/assets/stencil01.png';
     import compressor from '$lib/assets/compressor01.png';
     import blank from '$lib/assets/blank01.png';
+    import accessories from '$lib/assets/accessories01.png';
 </script>
 <div class="container mx-auto">
     <div class="p-4">
@@ -78,11 +79,15 @@
             </div>
         </div>
         <hr class="h-px my-6 bg-gray-200 border-0 dark:bg-gray-700">
-        <div>
-            <h1 class="text-2xl">Accessories</h1>
-            <p>Accessories may not seem as exciting as paints or airbrushes, but they can make a huge difference in how easy and enjoyable lure painting is. Simple tools like paintbrushes are great for spreading epoxy or adding fine details by hand, while “helping hands” or lure holders keep your bait steady while you work. Airbrush cleaning supplies are a must for keeping your gear in good shape, and a lure spinner can help your epoxy coats dry evenly without drips. Don’t forget about basics like a good mask for safety and proper lighting so you can really see the details of your work. These little extras may not be the main event, but they make the whole process smoother and your results more professional.</p>
-            <a href="/supplies/accessories" class="block text-blue-600 underline pt-3">Accessory Options</a>
-        </div>        
-
+        <div class="pt-4 py-2 flex">
+            <div class="pr-4 pt-2">
+                <img src='{accessories}' alt="Accessories" class="w-32 max-w-none" />
+            </div>
+            <div>
+                <h1 class="text-2xl">Accessories</h1>
+                <p>Accessories may not seem as exciting as paints or airbrushes, but they can make a huge difference in how easy and enjoyable lure painting is. Simple tools like paintbrushes are great for spreading epoxy or adding fine details by hand, while “helping hands” or lure holders keep your bait steady while you work. Airbrush cleaning supplies are a must for keeping your gear in good shape, and a lure spinner can help your epoxy coats dry evenly without drips. Don’t forget about basics like a good mask for safety and proper lighting so you can really see the details of your work. These little extras may not be the main event, but they make the whole process smoother and your results more professional.</p>
+                <a href="/supplies/accessories" class="block text-blue-600 underline pt-3">Accessory Options</a>
+            </div>
+        </div>
     </div>
 </div>
