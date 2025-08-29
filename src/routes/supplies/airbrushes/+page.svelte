@@ -3,6 +3,7 @@
         <h1 class="text-4xl font-bold mb-4">Top 5 Airbrushes (in my opinion)</h1>
         <p>Here are five top-tier airbrushes favored by artists and hobbyists.  (See great <a href="#budget" class="text-blue-700 underline">Budget Kit</a> options below.)</p>
         <div class="flex pt-4">
+            <div class="text-6xl w-24 flex-shrink-0 flex items-center justify-center">1</div>
             <div class="pr-4">
                 <a href="https://amzn.to/3Jz7REg" target="_blank" alt="Iwata-Medea Eclipse HP CS"><img src="https://m.media-amazon.com/images/I/61CkwaKKNNL._AC_SL1500_.jpg" alt="Iwata-Medea Eclipse HP CS" class="w-48 max-w-none" /></a>
             </div>
@@ -14,6 +15,7 @@
         </div>
         <hr class="h-px my-4 bg-gray-200 border-0 dark:bg-gray-700">
         <div class="flex pt-4">
+            <div class="text-6xl w-24 flex-shrink-0 flex items-center justify-center">2</div>
             <div class="pr-4">
                 <a href="https://amzn.to/4n6UTfu" target="_blank" alt="Harder & Steenbeck Ultra 2024"><img src="https://m.media-amazon.com/images/I/61U5OGji-dL._AC_SL1500_.jpg" alt="Harder & Steenbeck Ultra 2024" class="w-48 max-w-none" /></a>
             </div>
@@ -25,6 +27,7 @@
         </div>
         <hr class="h-px my-4 bg-gray-200 border-0 dark:bg-gray-700">
         <div class="flex pt-4">
+            <div class="text-6xl w-24 flex-shrink-0 flex items-center justify-center">3</div>
             <div class="pr-4">
                 <a href="https://amzn.to/4mFkdtc" target="_blank" alt="Harder & Steenbeck Ultra 2024"><img src="https://m.media-amazon.com/images/I/61I1egZ7pzL._AC_SL1500_.jpg" alt="Harder & Steenbeck Airbrush – Evolution 2024" class="w-48 max-w-none" /></a>
             </div>
@@ -36,6 +39,7 @@
         </div>
         <hr class="h-px my-4 bg-gray-200 border-0 dark:bg-gray-700">
         <div class="flex pt-4">
+            <div class="text-6xl w-24 flex-shrink-0 flex items-center justify-center">4</div>
             <div class="pr-4">
                 <a href="https://amzn.to/41VtyEM" target="_blank" alt="Sparmax SP35 Airbrush"><img src="https://m.media-amazon.com/images/I/614WpHvK8hL._AC_SL1500_.jpg" alt="Sparmax SP35 Airbrush" class="w-48 max-w-none" /></a>
             </div>
@@ -47,6 +51,7 @@
         </div>
         <hr class="h-px my-4 bg-gray-200 border-0 dark:bg-gray-700">
         <div class="flex pt-4">
+            <div class="text-6xl w-24 flex-shrink-0 flex items-center justify-center">5</div>
             <div class="pr-4">
                 <a href="https://amzn.to/47i4aN1" target="_blank" alt="Mr. Hobby GSI Creos - Mr. Procon Boy"><img src="https://m.media-amazon.com/images/I/51ug1urdDmL._AC_SL1500_.jpg" alt="Mr. Hobby GSI Creos - Mr. Procon Boy" class="w-48 max-w-none" /></a>
             </div>
