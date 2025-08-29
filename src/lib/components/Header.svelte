@@ -4,7 +4,6 @@
         <div>
             <a href="/supplies" class="mx-2 hover:text-gray-300">Supplies</a>
             <a href="/learn" class="mx-2 hover:text-gray-300">Learn</a>
-            <a href="/contact" class="mx-2 hover:text-gray-300">Contact</a>
         </div>
     </nav>
 </header>
