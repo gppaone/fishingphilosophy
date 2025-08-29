@@ -107,12 +107,12 @@
         <hr class="h-px my-4 bg-gray-200 border-0 dark:bg-gray-700">
         <div class="flex pt-4">
             <div class="pr-4">
-                <a href="Pro Grade - Acid Brushes" target="_blank" alt="Pro Grade - Acid Brushes"><img src="https://m.media-amazon.com/images/I/61RJQC-BitL._AC_SL1000_.jpg" alt="Pro Grade - Acid Brushes" class="w-48 max-w-none" /></a>
+                <a href="https://amzn.to/4n5ZNsT" target="_blank" alt="Pro Grade - Acid Brushes"><img src="https://m.media-amazon.com/images/I/61RJQC-BitL._AC_SL1000_.jpg" alt="Pro Grade - Acid Brushes" class="w-48 max-w-none" /></a>
             </div>
             <div>
                 <h2 class="text-xl font-bold">Pro Grade - Acid Brushes</h2>
                 <p>The Pro Grade Acid Brushes – 144 Count 3/8" Boar Hair are excellent for applying epoxy to lure blanks. Their 3/8" chisel-edge bristles and 6" metal handles provide precision and control, making them ideal for detailed work. These disposable brushes are designed for single or multiple uses, offering versatility for various applications, including applying glue, oil, acid, flux, pipe dope, solder, and touch-up primer and paint in small areas. The bulk pack includes 144 brushes, ensuring you have plenty on hand for your projects.</p>
-                <p class="pt-2">Amazon: <a href="Pro Grade - Acid Brushes" target="_blank" class="text-blue-700 underline">Pro Grade - Acid Brushes</a></p>
+                <p class="pt-2">Amazon: <a href="https://amzn.to/4n5ZNsT" target="_blank" class="text-blue-700 underline">Pro Grade - Acid Brushes</a></p>
             </div>
         </div>
         <div class="mt-8 text-gray-700">
