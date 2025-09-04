@@ -2,8 +2,8 @@
     <div class="p-4">
         <h1 class="text-4xl font-bold mb-4">Accessories (some necessary, some nice to have)</h1>
         <p>When it comes to airbrushing custom lures, the right accessories can make all the difference. Some tools are essential for getting started—like cleaning kits, proper air hoses, and spray booths—while others, such as turntables or quick-connect fittings, simply make the process smoother and more enjoyable. Whether you’re looking to improve precision, keep your equipment in top shape, or streamline your workflow, these accessories can help you get the most out of your airbrushing setup.</p>
-        <div class="flex pt-4">
-            <div class="pr-4 aspect-square">
+        <div class="md:flex pt-4">
+            <div class="md:pr-4 pb-4 flex justify-center">
                 <a href="https://amzn.to/4n7EAit" target="_blank" title="Multifunctional Airbrush Cleaning Pot Wash Station with Holder"><img src="https://m.media-amazon.com/images/I/51gkSh5qXpL._AC_SL1500_.jpg" alt="Multifunctional Airbrush Cleaning Pot Wash Station with Holder" class="w-48 h-48 max-w-none object-cover" /></a>
             </div>
             <div>
@@ -13,8 +13,8 @@
             </div>
         </div>
         <hr class="h-px my-4 bg-gray-200 border-0 dark:bg-gray-700">
-        <div class="flex pt-4">
-            <div class="pr-4 aspect-square">
+        <div class="md:flex pt-4">
+            <div class="md:pr-4 pb-4 flex justify-center">
                 <a href="https://amzn.to/3HKpPmL" target="_blank" title="Master Airbrush Brand - Airbrush Cleaning Kit - Spray Gun & Airbrush Clean Set"><img src="https://m.media-amazon.com/images/I/81w1j-ERHPL._AC_SL1500_.jpg" alt="Master Airbrush Brand - Airbrush Cleaning Kit - Spray Gun & Airbrush Clean Set" class="w-48 max-w-none object-cover" /></a>
             </div>
             <div>
@@ -24,8 +24,8 @@
             </div>
         </div>
         <hr class="h-px my-4 bg-gray-200 border-0 dark:bg-gray-700">
-        <div class="flex pt-4">
-            <div class="pr-4 aspect-square">
+        <div class="md:flex pt-4">
+            <div class="md:pr-4 pb-4 flex justify-center">
                 <a href="https://amzn.to/46cmkyC" target="_blank" title="Master Airbrush Cleaner, 16-Ounce Pint Bottle"><img src="https://m.media-amazon.com/images/I/81mVeqhlr6L._AC_SL1500_.jpg" alt="Master Airbrush Brand - Airbrush Cleaning Kit - Spray Gun & Airbrush Clean Set" class="w-48 h-48 max-w-none object-cover" /></a>
             </div>
             <div>
@@ -35,8 +35,8 @@
             </div>
         </div>
         <hr class="h-px my-4 bg-gray-200 border-0 dark:bg-gray-700">
-        <div class="flex pt-4">
-            <div class="pr-4 aspect-square">
+        <div class="md:flex pt-4">
+            <div class="md:pr-4 pb-4 flex justify-center">
                 <a href="https://amzn.to/4282iTx" target="_blank" title="Pro'sKit 900-015 Helping Hands Soldering Aid"><img src="https://m.media-amazon.com/images/I/61Z0B3L2o+L._SL1500_.jpg" alt="Pro'sKit 900-015 Helping Hands Soldering Aid" class="w-48 h-48 max-w-none object-cover" /></a>
             </div>
             <div>
@@ -46,8 +46,8 @@
             </div>
         </div>
         <hr class="h-px my-4 bg-gray-200 border-0 dark:bg-gray-700">
-        <div class="flex pt-4">
-            <div class="pr-4 aspect-square">
+        <div class="md:flex pt-4">
+            <div class="md:pr-4 pb-4 flex justify-center">
                 <a href="https://amzn.to/3I0nYKx" target="_blank" title="Master Airbrush In-Line Mini Air Filter Water Trap"><img src="https://m.media-amazon.com/images/I/61L7IgIsD2L._AC_SL1500_.jpg" alt="Master Airbrush In-Line Mini Air Filter Water Trap" class="w-48 h-48 max-w-none object-cover" /></a>
             </div>
             <div>
@@ -57,8 +57,8 @@
             </div>
         </div>
         <hr class="h-px my-4 bg-gray-200 border-0 dark:bg-gray-700">
-       <div class="flex pt-4">
-            <div class="pr-4 aspect-square">
+        <div class="md:flex pt-4">
+            <div class="md:pr-4 pb-4 flex justify-center">
                 <a href="https://amzn.to/4fXl99A" target="_blank" title="Vallejo - Airbrush Flow Improver"><img src="https://m.media-amazon.com/images/I/41tlj9ad8lL._AC_SL1000_.jpg" alt="Vallejo - Airbrush Flow Improver" class="w-48 h-48 max-w-none object-cover" /></a>
             </div>
             <div>
@@ -72,8 +72,8 @@
         <hr class="h-px my-4 bg-gray-200 border-0 dark:bg-gray-700">
         <h1 class="text-4xl font-bold mb-4 pt-4" id="budget">Not <span class="italic">necessary</span> but nice to have</h1>
         <p class="mt-4 py-8 px-4 rounded bg-amber-100">Once you get into the hobby you'll be glad to have some of these items.</p>
-        <div class="flex pt-4">
-            <div class="pr-4 aspect-square">
+        <div class="md:flex pt-4">
+            <div class="md:pr-4 pb-4 flex justify-center">
                 <a href="https://amzn.to/4fW57ge" target="_blank" title="CO-Z Airbrush Spray Booth with Dual Fans & 4 LED Lights"><img src="https://m.media-amazon.com/images/I/81BCN33PvRL._AC_SL1500_.jpg" alt="CO-Z Airbrush Spray Booth with Dual Fans & 4 LED Lights" class="w-48 max-w-none object-cover" /></a>
             </div>
             <div>
@@ -83,8 +83,8 @@
             </div>
         </div>
         <hr class="h-px my-4 bg-gray-200 border-0 dark:bg-gray-700">
-        <div class="flex pt-4">
-            <div class="pr-4">
+        <div class="md:flex pt-4">
+            <div class="md:pr-4 pb-4 flex justify-center">
                 <a href="https://amzn.to/4oZKO5H" target="_blank" alt="Master Airbrush True Diaphragm Airbrush Pressure Regulator with Gauge & Water Moisture Trap"><img src="https://m.media-amazon.com/images/I/81cloIIpglL._AC_SL1500_.jpg" alt="Master Airbrush True Diaphragm Airbrush Pressure Regulator with Gauge & Water Moisture Trap" class="w-48 max-w-none" /></a>
             </div>
             <div>
@@ -94,8 +94,8 @@
             </div>
         </div>
         <hr class="h-px my-4 bg-gray-200 border-0 dark:bg-gray-700">
-        <div class="flex pt-4">
-            <div class="pr-4">
+        <div class="md:flex pt-4">
+            <div class="md:pr-4 pb-4 flex justify-center">
                 <a href="https://amzn.to/4lSVnVA" target="_blank" alt="Disposable Medicine Cups Graduated, pack of 300"><img src="https://m.media-amazon.com/images/I/81DiP+EvFiL._SL1500_.jpg" alt="Disposable Medicine Cups Graduated, pack of 300" class="w-48 max-w-none" /></a>
             </div>
             <div>
@@ -105,8 +105,8 @@
             </div>
         </div>
         <hr class="h-px my-4 bg-gray-200 border-0 dark:bg-gray-700">
-        <div class="flex pt-4">
-            <div class="pr-4">
+        <div class="md:flex pt-4">
+            <div class="md:pr-4 pb-4 flex justify-center">
                 <a href="https://amzn.to/4n5ZNsT" target="_blank" alt="Pro Grade - Acid Brushes"><img src="https://m.media-amazon.com/images/I/61RJQC-BitL._AC_SL1000_.jpg" alt="Pro Grade - Acid Brushes" class="w-48 max-w-none" /></a>
             </div>
             <div>

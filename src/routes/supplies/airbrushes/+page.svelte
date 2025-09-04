@@ -2,10 +2,11 @@
     <div class="p-4">
         <h1 class="text-4xl font-bold mb-4">Top 5 Airbrushes (in my opinion)</h1>
         <p>Here are five top-tier airbrushes favored by artists and hobbyists.  (See great <a href="#budget" class="text-blue-700 underline">Budget Kit</a> options below.)</p>
-        <div class="flex pt-4">
-            <div class="text-6xl w-24 flex-shrink-0 flex items-center justify-center">1</div>
-            <div class="pr-4">
-                <a href="https://amzn.to/3Jz7REg" target="_blank" alt="Iwata-Medea Eclipse HP CS"><img src="https://m.media-amazon.com/images/I/61CkwaKKNNL._AC_SL1500_.jpg" alt="Iwata-Medea Eclipse HP CS" class="w-48 max-w-none" /></a>
+        <div class="md:flex pt-4">
+            <div class="md:pr-4 pb-4 flex justify-center">
+                <a href="https://amzn.to/3Jz7REg" target="_blank" alt="Iwata-Medea Eclipse HP CS">
+                    <img src="https://m.media-amazon.com/images/I/61CkwaKKNNL._AC_SL1500_.jpg" alt="Iwata-Medea Eclipse HP CS" class="w-48 max-w-none" />
+                </a>
             </div>
             <div>
                 <h2 class="text-xl font-bold">Iwata-Medea Eclipse HP CS</h2>
@@ -14,9 +15,8 @@
             </div>
         </div>
         <hr class="h-px my-4 bg-gray-200 border-0 dark:bg-gray-700">
-        <div class="flex pt-4">
-            <div class="text-6xl w-24 flex-shrink-0 flex items-center justify-center">2</div>
-            <div class="pr-4">
+        <div class="md:flex pt-4">
+            <div class="md:pr-4 pb-4 flex justify-center">
                 <a href="https://amzn.to/4n6UTfu" target="_blank" alt="Harder & Steenbeck Ultra 2024"><img src="https://m.media-amazon.com/images/I/61U5OGji-dL._AC_SL1500_.jpg" alt="Harder & Steenbeck Ultra 2024" class="w-48 max-w-none" /></a>
             </div>
             <div>
@@ -26,9 +26,8 @@
             </div>
         </div>
         <hr class="h-px my-4 bg-gray-200 border-0 dark:bg-gray-700">
-        <div class="flex pt-4">
-            <div class="text-6xl w-24 flex-shrink-0 flex items-center justify-center">3</div>
-            <div class="pr-4">
+        <div class="md:flex pt-4">
+            <div class="md:pr-4 pb-4 flex justify-center">
                 <a href="https://amzn.to/4mFkdtc" target="_blank" alt="Harder & Steenbeck Ultra 2024"><img src="https://m.media-amazon.com/images/I/61I1egZ7pzL._AC_SL1500_.jpg" alt="Harder & Steenbeck Airbrush – Evolution 2024" class="w-48 max-w-none" /></a>
             </div>
             <div>
@@ -38,9 +37,8 @@
             </div>
         </div>
         <hr class="h-px my-4 bg-gray-200 border-0 dark:bg-gray-700">
-        <div class="flex pt-4">
-            <div class="text-6xl w-24 flex-shrink-0 flex items-center justify-center">4</div>
-            <div class="pr-4">
+        <div class="md:flex pt-4">
+            <div class="md:pr-4 pb-4 flex justify-center">
                 <a href="https://amzn.to/41VtyEM" target="_blank" alt="Sparmax SP35 Airbrush"><img src="https://m.media-amazon.com/images/I/614WpHvK8hL._AC_SL1500_.jpg" alt="Sparmax SP35 Airbrush" class="w-48 max-w-none" /></a>
             </div>
             <div>
@@ -50,9 +48,8 @@
             </div>
         </div>
         <hr class="h-px my-4 bg-gray-200 border-0 dark:bg-gray-700">
-        <div class="flex pt-4">
-            <div class="text-6xl w-24 flex-shrink-0 flex items-center justify-center">5</div>
-            <div class="pr-4">
+        <div class="md:flex pt-4">
+            <div class="md:pr-4 pb-4 flex justify-center">
                 <a href="https://amzn.to/47i4aN1" target="_blank" alt="Mr. Hobby GSI Creos - Mr. Procon Boy"><img src="https://m.media-amazon.com/images/I/51ug1urdDmL._AC_SL1500_.jpg" alt="Mr. Hobby GSI Creos - Mr. Procon Boy" class="w-48 max-w-none" /></a>
             </div>
             <div>
@@ -65,8 +62,8 @@
         <hr class="h-px my-4 bg-gray-200 border-0 dark:bg-gray-700">
         <h1 class="text-4xl font-bold mb-4 pt-4" id="budget">Budget Kits</h1>
         <p class="mt-4 py-8 px-4 rounded bg-amber-100">When you’re just starting out with lure painting, a budget airbrush kit can be the perfect way to hit the ground running without breaking the bank. These all-in-one sets give you everything you need to experiment and learn the basics—compressor, brushes, paints, and accessories—so you can focus on creativity instead of chasing down gear. While higher-end airbrushes offer more precision and durability, a starter kit is a great way to see if the hobby hooks you, build your skills, and start producing lures you’ll be proud to fish with.</p>
-        <div class="flex pt-4">
-            <div class="pr-4">
+        <div class="md:flex pt-4">
+            <div class="md:pr-4 pb-4 flex justify-center">
                 <a href="https://amzn.to/4oWTnOx" target="_blank" alt="MEEDEN Airbrush Kit (with compressor & 24 paints)"><img src="https://m.media-amazon.com/images/I/71O+HreJudL._AC_SL1500_.jpg" alt="MEEDEN Airbrush Kit (with compressor & 24 paints)" class="w-48 max-w-none" /></a>
             </div>
             <div>
@@ -76,8 +73,8 @@
             </div>
         </div>
         <hr class="h-px my-4 bg-gray-200 border-0 dark:bg-gray-700">
-        <div class="flex pt-4">
-            <div class="pr-4">
+        <div class="md:flex pt-4">
+            <div class="md:pr-4 pb-4 flex justify-center">
                 <a href="https://amzn.to/4oVDLLh" target="_blank" alt="Master Airbrush Cool Runner II Kit"><img src="https://m.media-amazon.com/images/I/91nBM-1rukL._AC_SL1500_.jpg" alt="Master Airbrush Cool Runner II Kit" class="w-48 max-w-none" /></a>
             </div>
             <div>
