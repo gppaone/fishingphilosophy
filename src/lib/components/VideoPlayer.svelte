@@ -2,7 +2,7 @@
     export let video;
     export let autoplay = false;
     
-    $: embedUrl = `https://www.youtube.com/embed/${video.id}${autoplay ? '?autoplay=1' : ''}`;
+    $: embedUrl = `https://www.youtube-nocookie.com/embed/${video.id}${autoplay ? '?autoplay=1' : ''}`;
     </script>
 
     <div class="bg-gray-800 rounded-lg overflow-hidden shadow-lg">
